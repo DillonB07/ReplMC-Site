@@ -22,7 +22,7 @@ Once you've downloaded the modpack, you'll need to install it.
 3. Press `OK` and wait for the pack to install. This may take a while as it will download all of the mods.
 4. That's it! You can now launch the pack and join the server.
 
-## Installing Additioanl Mods
+## Installing Additional Mods
 
 Now, we've not included all of the mods that you might want. The pack does include JEI and Mod Menu, but you may want to add more such as a minimap. This is very simple in Prism.
 
