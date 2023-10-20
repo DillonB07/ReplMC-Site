@@ -1,17 +1,23 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+dillonb07:
+  name: DillonB07
+  title: Server Admin
+  url: https://discord.com/users/915670836357247006
+  image_url: /img/dillonb07.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+dart:
+  name: Dart
+  title: Server Admin
+  url: https://discord.com/users/741090611842646139
+  image_url: /img/dart.webp
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+cnnd:
+  name: Connor
+  title: Server Admin
+  url: https://discord.com/users/512533167794814978
+  image_url: /img/cnnd.gif
+
+styx:
+  name: PotentialStyx
+  title: Server Admin
+  url: https://discord.com/users/975920435432661052
+  image_url: /img/styx.webp
