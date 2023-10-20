@@ -1,6 +1,13 @@
-# Website
+# ReplMC
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This is the new ReplMC website built with [Docusaurus 2](https://docusaurus.io/).
+This is a heavy work in progress at the moment, but this will be full of guides on how to use mods/plugins and information about the ReplMC servers.
+
+Make sure to join the [Discord](https://discord.gg/friendsofreplit) to make suggestions about the server, chat with people and get the latest news.
+
+Contributions are welcome! Please keep commit messages tidy and do one main thing per commit.
+
+---
 
 ### Installation
 
@@ -23,19 +30,3 @@ bun run build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-USE_SSH=true bun run deploy
-```
-
-Not using SSH:
-
-```
-GIT_USER=<Your GitHub username> bun run deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
