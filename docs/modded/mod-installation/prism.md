@@ -6,16 +6,13 @@ If you've never used Prism before, you'll need to download it from [here](https:
 
 ## Downloading the Modpack
 
-We have two modpacks available for you to download.
+To make it quick to join the server, we've created a modpack that you can import into your launcher. This includes all of the required mods as well as performance mods.
 
-1. The bare bones pack - This includes only what you need to join and no performance or Quality of Life mods
-2. The performance pack - This includes everything in the bare-bones pack and performance mods to improve your experience.
-
-You can download those from [here](https://drive.google.com/drive/folders/1ciSTt7VAKdmNNjalJy4xCAKAU2Owup_U?usp=share_link).
+You should download the `PrismLauncher.mrpack` file from [here](https://drive.google.com/drive/folders/1ciSTt7VAKdmNNjalJy4xCAKAU2Owup_U?usp=share_link).
 
 ## Installing the Modpack
 
-Once you've downloaded the modpack, you'll need to install it. The process is the same regardless of which pack you downloaded.
+Once you've downloaded the modpack, you'll need to install it. 
 
 1. Inside Prism, press `Add Instance` in the top left corner.
 ![Create Instance](assets/prism/add-instance.png)
@@ -27,7 +24,7 @@ Once you've downloaded the modpack, you'll need to install it. The process is th
 
 ## Installing Additioanl Mods
 
-Now, we've not included all of the mods that you might want. Both of the packs include JEI and Mod Menu, but you may want to add more such as a minimap. This is very simple in Prism.
+Now, we've not included all of the mods that you might want. The pack does include JEI and Mod Menu, but you may want to add more such as a minimap. This is very simple in Prism.
 
 1. Navigate to your instance settings
 ![Instance Settings](assets/prism/instance-settings.png)
