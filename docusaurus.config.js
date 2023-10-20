@@ -44,13 +44,13 @@ const config = {
           editUrl:
             'https://github.com/DillonB07/ReplMC-Site/tree/main/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/DillonB07/ReplMC-Site/tree/main/',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   editUrl:
+        //     'https://github.com/DillonB07/ReplMC-Site/tree/main/',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -64,19 +64,19 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'ReplMC',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Friends of Replit Logo',
+          src: 'img/logo.gif',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'sidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Wiki',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/DillonB07/ReplMC-Site',
             label: 'GitHub',
@@ -92,7 +92,7 @@ const config = {
             items: [
               {
                 label: 'Get Started',
-                to: '/docs/modded',
+                to: '/docs/category/modded-smp',
               },
               {
                 label: 'Rules',
@@ -109,7 +109,7 @@ const config = {
             items: [
               {
                 label: 'Get Started',
-                to: '/docs/smp',
+                to: '/docs/category/smp',
               },
               {
                 label: 'Rules',
@@ -124,10 +124,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'Discord',
                 href: 'https://discord.gg/friendsofreplit',

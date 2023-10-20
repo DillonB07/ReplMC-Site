@@ -1,0 +1,9 @@
+{
+    "label": "Mods",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "Check out the required mods, serverside mods and recommended mods for the server"
+    }
+  }
+  

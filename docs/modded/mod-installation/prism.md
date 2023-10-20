@@ -33,7 +33,7 @@ Now, we've not included all of the mods that you might want. Both of the packs i
 ![Instance Settings](assets/prism/instance-settings.png)
 2. Go to the `Mods` tab and press `Download mods`
 ![Download Mods](assets/prism/download-mods.png)
-3. Search for a mod you want to download. You can see a list of mods we recommend [here](/modded/mods/recommended).
+3. Search for a mod you want to download. You can see a list of mods we recommend [here](docs/modded/mods/recommended).
 4. Once you've found a mod that you'd like, press `Select mod for download` and then `Review and Confirm`. Once confirmed, the mod will be downloaded and installed.
 ![Download mods menu](assets/prism/download-mods-menu.png)
 5. That's it! When you launch your pack next, the mods you installed will be there for you.
