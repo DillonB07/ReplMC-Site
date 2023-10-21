@@ -4,6 +4,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 
 import styles from "./index.module.css";
+import HomepageFeatures from "../components/HomepageFeatures";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -26,11 +27,10 @@ function HomepageHeader() {
 }
 
 export default function Home(): JSX.Element {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      title='Home'
+      description="Friends of Replit Minecraft Servers"
     >
       <HomepageHeader />
       <main
@@ -41,7 +41,7 @@ export default function Home(): JSX.Element {
           flexDirection: "column",
         }}
       >
-        <em>Put some content here</em>
+        <HomepageFeatures />
       </main>
     </Layout>
   );
