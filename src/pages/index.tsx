@@ -16,10 +16,16 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <button
             className="button button--secondary button--lg"
-            onClick={() => navigator.clipboard.writeText("mc.repl.game")}
+            onClick={() => navigator.clipboard.writeText("replmc.mc.uwcs.co.uk")}
           >
-            Play now: mc.repl.game
+            replmc.mc.uwcs.co.uk
           </button>
+          <a
+            className="button button--secondary button--lg"
+            href="/docs/category/installing-mods"
+          >
+            Get Started with Modded
+          </a>
         </div>
       </div>
     </header>
@@ -28,10 +34,7 @@ function HomepageHeader() {
 
 export default function Home(): JSX.Element {
   return (
-    <Layout
-      title='Home'
-      description="Friends of Replit Minecraft Servers"
-    >
+    <Layout title="Home" description="Friends of Replit Minecraft Servers">
       <HomepageHeader />
       <main
         style={{
