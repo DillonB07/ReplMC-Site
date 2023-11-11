@@ -6,9 +6,9 @@ The versions listed are known to work. Newer versions may work, but have not bee
 
 - Big Mods
 
-  - [Ad Astra 1.15.4](https://modrinth.com/mod/ad-astra/version/1.15.4) - Travel to space (5 different planets!!), make rockets and vehicles with Ad Astra!
+  - [Ad Astra 1.15.4](https://modrinth.com/mod/ad-astra/version/1.15.4) - Travel to space (5 different planets!!), make rockets and vehicles with Ad Astra
   - [Create 0.5.1.d](https://modrinth.com/mod/create-fabric/version/0.5.1-d-build.1161+mc1.20.1) - Adds machines and movement
-  - [Create C&A 0.9.0](https://modrinth.com/mod/createaddition/version/fabric-1.20.1-0.9.0) - Adds more to the Create mod including being able to generate electricity.
+  - [Create C&A 0.9.0](https://modrinth.com/mod/createaddition/version/fabric-1.20.1-0.9.0) - Adds more to the Create mod including being able to generate electricity
   - [Create: Steam 'n' Rails 1.5.1](https://modrinth.com/mod/create-steam-n-rails/version/1.5.1-fabric-mc1.20.1) - Adds more trains to Create
   - [Energized Power 2.2.1](https://modrinth.com/mod/energized-power/version/1.20.1-2.2.1-fabric) - Generate electrical power
   - [Origins 1.10.0](https://modrinth.com/mod/origins/version/1.10.0) - Adds origins which give you abilties and drawbacks that affect how you play the game
@@ -35,7 +35,7 @@ The versions listed are known to work. Newer versions may work, but have not bee
   - [Emojiful 4.2.0](https://modrinth.com/mod/emojiful/version/4.2.0) - Use emojis in the chat
   - [Forgotten Graves 3.2.1](https://modrinth.com/mod/forgotten-graves/version/1.20.1-3.2.1) - Died? Well, you have a grave now
   - [Supplementaries 2.6.13](https://modrinth.com/mod/supplementaries/version/eLMFAPhO) - Adds so many nice things
-  - [Tempad 2.1.1](https://modrinth.com/mod/tempad/version/GCXQL4iE) - Summon a portal to take you wherever you want.
+  - [Tempad 2.1.1](https://modrinth.com/mod/tempad/version/GCXQL4iE) - Summon a portal to take you wherever you want
 
 - World Generation
 
