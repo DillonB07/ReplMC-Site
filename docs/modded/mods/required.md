@@ -6,6 +6,7 @@ We have a lot of mods on the server which change the experience. Here's what's n
 The versions listed are known to work. Newer versions may work, but have not been tested.
 
 - Big Mods
+	- [Ad Astra 1.15.4](https://modrinth.com/mod/ad-astra/version/1.15.4) - Travel to space (5 different planets!!), make rockets and vehicles with Ad Astra!
 	- [Create 0.5.1.d](https://modrinth.com/mod/create-fabric/version/0.5.1-d-build.1161+mc1.20.1) - Adds machines and movement
 	- [Create C&A 0.9.0](https://modrinth.com/mod/createaddition/version/fabric-1.20.1-0.9.0) - Adds more to the Create mod including being able to generate electricity.
 	- [Create: Steam 'n' Rails 1.5.1](https://modrinth.com/mod/create-steam-n-rails/version/1.5.1-fabric-mc1.20.1) - Adds more trains to Create
@@ -41,11 +42,13 @@ The versions listed are known to work. Newer versions may work, but have not bee
 	- [Athena 3.1.1](https://modrinth.com/mod/athena-ctm/version/Jy8DnzcO)
 	- [Bad Packets 0.4.3](https://modrinth.com/mod/badpackets/version/fabric-0.4.3)
 	- [BCLib 3.0.13](https://modrinth.com/mod/bclib/version/3.0.13)
+	- [Botarium 2.2.1](https://modrinth.com/mod/botarium/version/9yTYvTAh)
 	- [CompleteConfig 2.5.0](https://modrinth.com/mod/completeconfig/version/2.5.0)
 	- [Continuity 3.0.0](https://modrinth.com/mod/continuity/version/3.0.0-beta.4+1.20.1)
 	- [Create: Origins 1.2.1](https://modrinth.com/mod/create-origins/version/1.2.1+1.20.1+fabric-quilt)
 	- [Fabric API 0.90.0](https://modrinth.com/mod/fabric-api/version/0.90.0+1.20.1)
 	- [Moonlight 2.8.50](https://modrinth.com/mod/moonlight/version/fabric_1.20-2.8.50)
+	- [Patchoulli 81](https://modrinth.com/mod/patchouli/version/1.20.1-81-fabric)
 	- [Pehkui 3.7.8](https://modrinth.com/mod/pehkui/version/3.7.8+1.14.4-1.20.1)
 	- [Resourceful Lib 2.1.11](https://modrinth.com/mod/resourceful-lib/version/xeUwwWis)
 	- [Resourceful Config 2.1.0](https://modrinth.com/mod/resourceful-config/version/nVDWZ9N7)
