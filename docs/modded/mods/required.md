@@ -9,8 +9,8 @@ The versions listed are known to work. Newer versions may work, but have not bee
   - [Ad Astra 1.15.4](https://modrinth.com/mod/ad-astra/version/1.15.4) - Travel to space (5 different planets!!), make rockets and vehicles with Ad Astra
   - [Create 0.5.1.d](https://modrinth.com/mod/create-fabric/version/0.5.1-d-build.1161+mc1.20.1) - Adds machines and movement
   - [Create C&A 0.9.0](https://modrinth.com/mod/createaddition/version/fabric-1.20.1-0.9.0) - Adds more to the Create mod including being able to generate electricity
-  - [Create: Steam 'n' Rails 1.5.1](https://modrinth.com/mod/create-steam-n-rails/version/1.5.1-fabric-mc1.20.1) - Adds more trains to Create
   - [Create Slice and Dice 3.0.0](https://modrinth.com/mod/slice-and-dice/version/etRuKHcg) - Adds Farmer's Delight compatibility to Create
+  - [Create: Steam 'n' Rails 1.5.1](https://modrinth.com/mod/create-steam-n-rails/version/1.5.1-fabric-mc1.20.1) - Adds more trains to Create
   - [Energized Power 2.5.1](https://modrinth.com/mod/energized-power/version/1.20.1-2.5.1-fabric) - Generate electrical power
   - [Origins 1.10.0](https://modrinth.com/mod/origins/version/1.10.0) - Adds origins which give you abilties and drawbacks that affect how you play the game
   - [Origins++ 2.2](https://modrinth.com/mod/origins-plus-plus/version/2.2) - Adds over 100 more origins
