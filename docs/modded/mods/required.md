@@ -46,8 +46,8 @@ The versions listed are known to work. Newer versions may work, but have not bee
 
 - World Generation
 
-  - [Better Nether 9.0.9](https://modrinth.com/mod/betternether/version/9.0.9) - Completely changes the nether by adding lots of new biomes, mobs, tools, armour and more
   - [Better End 4.0.10](https://modrinth.com/mod/betterend/version/4.0.10) - Completely changes the end by adding lots of new biomes, mobs, tools, armour and more
+  - [Better Nether 9.0.9](https://modrinth.com/mod/betternether/version/9.0.9) - Completely changes the nether by adding lots of new biomes, mobs, tools, armour and more
 
 - Dependencies
   - [Architectury API 9.1.12](https://modrinth.com/mod/architectury-api/version/9.1.12+fabric)
