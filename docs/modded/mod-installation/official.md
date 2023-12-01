@@ -9,7 +9,7 @@ Managing mods with the official launcher requires manually editing the files whi
 The first thing to do in the official launcher is to install the Fabric mod loader.
 
 1. Visit the [Fabric download page](https://fabricmc.net/use/installer) and download the Universal installer. This will work regardless of your OS if you have Java installed.
-2. Run the file you downloaded and select `Minecraft Version: 1.20.1` and `Loader Version: 0.14.23`. The Install Location should be left as the default. Make sure that the `Create profile` box is checked and then press `Install`.
+2. Run the file you downloaded and select `Minecraft Version: 1.20.1` and `Loader Version: 0.14.24`. The Install Location should be left as the default. Make sure that the `Create profile` box is checked and then press `Install`.
 ![Fabric settings](assets/official/install-fabric.png)
 3. Once you've received this success message, open the Minecraft Launcher.
 ![Install Confirmation](assets/official/fabric-confirmation.png)
