@@ -17,8 +17,8 @@ The first thing to do in the official launcher is to install the Fabric mod load
    ![Fabric profile](assets/official/fabric-profile.png)
 5. Select the checkbox to not get this warning every time you open the profile. This is shown because the game is modified and the launcher doesn't know what has been changed. Press `Play`. Once Minecraft has launched into the main menu, close the game.
    ![Modded profile warning](assets/official/safety-warning.png)
-6. Next, download the `mods.zip` file from [here](https://drive.google.com/drive/folders/1ciSTt7VAKdmNNjalJy4xCAKAU2Owup_U?usp=share_link).
-7. Extract it with your preferred archive utility and move all of the files into your `.minecraft/mods` folder. You may need to create the `mods` folder if it doesn't exist.
+6. Next, download each of the mods listed [here](/docs/modded/mods/required).
+7. Then, move all of the files into your `.minecraft/mods` folder. You may need to create the `mods` folder if it doesn't exist.
 
 Locations of the `minecraft` folder:
 
