@@ -12,7 +12,6 @@ The versions listed are known to work. Newer versions may work, but have not bee
   - [Create Slice and Dice 3.0.0](https://modrinth.com/mod/slice-and-dice/version/etRuKHcg) - Adds Farmer's Delight compatibility to Create
   - [Create: Steam 'n' Rails 1.5.1](https://modrinth.com/mod/create-steam-n-rails/version/1.5.1-fabric-mc1.20.1) - Adds more trains to Create
   - [Energized Power 2.5.1](https://modrinth.com/mod/energized-power/version/1.20.1-2.5.1-fabric) - Generate electrical power
-  - [Hephaestus 3.6.3.241](https://modrinth.com/mod/hephaestus/version/1.20.1-3.6.3.241) - Tinkers Construct for Fabric - Lots of new gear
   - [Origins 1.10.0](https://modrinth.com/mod/origins/version/1.10.0) - Adds origins which give you abilties and drawbacks that affect how you play the game
   - [Origins++ 2.2](https://modrinth.com/mod/origins-plus-plus/version/2.2) - Adds over 100 more origins
   - [Farmer's Delight 1.4.2](https://modrinth.com/mod/farmers-delight-fabric/version/1.4.2) - Adds more food and tools for farming
@@ -65,10 +64,8 @@ The versions listed are known to work. Newer versions may work, but have not bee
   - [Moonlight 2.8.65](https://modrinth.com/mod/moonlight/version/fabric_1.20-2.8.65)
   - [Patchoulli 81](https://modrinth.com/mod/patchouli/version/1.20.1-81-fabric)
   - [Pehkui 3.7.8](https://modrinth.com/mod/pehkui/version/3.7.8+1.14.4-1.20.1)
-  - [Porting Lib 2.1.1158](https://modrinth.com/mod/porting_lib/version/2.1.1158+1.20-entity-refactor)
   - [Resourceful Lib 2.1.11](https://modrinth.com/mod/resourceful-lib/version/xeUwwWis)
   - [Resourceful Config 2.1.0](https://modrinth.com/mod/resourceful-config/version/nVDWZ9N7)
-  - [Tamago 2.2](https://modrinth.com/mod/tamago/version/2.2)
   - [Trinkets 3.7.1](https://modrinth.com/mod/trinkets/version/3.7.1)
 
 Don't want to put all of the mods together yourself? Take a look [here](/docs/category/installing-mods) for some pre-made modpacks that you can import into your launcher.
